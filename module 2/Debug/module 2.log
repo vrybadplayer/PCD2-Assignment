@@ -1,0 +1,102 @@
+﻿  module2.c
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(347,26): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[7]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(347,12): warning C4024: 'staffID': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(348,32): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[7]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(348,18): warning C4024: 'valID': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(351,30): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[20]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(351,14): warning C4024: 'staffName': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(352,36): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[20]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(352,20): warning C4024: 'valName': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(355,22): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[15]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(355,13): warning C4024: 'password': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(356,33): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[15]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(356,24): warning C4024: 'valPassword': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(359,23): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[15]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(359,13): warning C4024: 'password': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(360,34): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[15]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(360,24): warning C4024: 'valPassword': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(364,33): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[20]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(364,18): warning C4024: 'staffPosition': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(365,39): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[20]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(365,24): warning C4024: 'valPosition': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(368,27): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[25]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(368,15): warning C4024: 'staffEmail': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(369,33): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[25]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(369,21): warning C4024: 'valEmail': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(372,32): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[15]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(372,20): warning C4024: 'stateDepartment': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(373,33): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[15]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(373,21): warning C4024: 'valState': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(397,37): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[15]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(397,20): warning C4024: 'stateDepartment': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(398,43): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[15]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(398,26): warning C4024: 'valDepartment': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(543,10): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(572,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(588,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(842,26): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[20]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(842,17): warning C4024: 'staffPosition': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(843,32): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[20]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(843,23): warning C4024: 'valPosition': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(879,25): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[20]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(879,19): warning C4024: 'stateDepartment': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(880,26): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[20]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(880,20): warning C4024: 'valState': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(918,30): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[15]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(918,19): warning C4024: 'stateDepartment': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(919,36): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[15]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(919,25): warning C4024: 'valDepartment': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(1083,17): warning C4013: 'getch' undefined; assuming extern returning int
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(1183,21): warning C4098: 'staffmodify': 'void' function returning a value
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(1329,20): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[20]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(1329,13): warning C4024: 'staffName': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(1330,26): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[20]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(1330,19): warning C4024: 'valName': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(1368,19): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[30]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(1368,12): warning C4024: 'password': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(1369,30): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[30]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(1369,23): warning C4024: 'valPassword': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(1404,19): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[30]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(1404,12): warning C4024: 'password': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(1405,30): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[30]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(1405,23): warning C4024: 'valPassword': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(1553,26): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[20]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(1553,19): warning C4024: 'stateDepartment': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(1554,27): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[20]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(1554,20): warning C4024: 'valState': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(1593,26): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[30]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(1593,19): warning C4024: 'stateDepartment': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(1594,32): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[30]'
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(1594,25): warning C4024: 'valDepartment': different types for formal and actual parameter 1
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(1722,29): warning C4101: 'j': unreferenced local variable
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(1822,29): warning C4101: 'x': unreferenced local variable
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(2100,6): warning C4101: 'year': unreferenced local variable
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(2100,19): warning C4101: 'day': unreferenced local variable
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(2100,12): warning C4101: 'month': unreferenced local variable
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(2318,13): warning C4013: 'validate' undefined; assuming extern returning int
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(2161,80): warning C4101: 'referral': unreferenced local variable
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(2161,72): warning C4101: 'gender': unreferenced local variable
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(2336,72): warning C4101: 'dateOfBirth': unreferenced local variable
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(2641,106): warning C4101: 'dateOfBirth': unreferenced local variable
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(2641,30): warning C4101: 'gender': unreferenced local variable
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(3188,9): warning C4101: 'j': unreferenced local variable
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(3201,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(3210,9): warning C4101: 'j': unreferenced local variable
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(3223,9): warning C4101: 'j': unreferenced local variable
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(3236,9): warning C4101: 'j': unreferenced local variable
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(3236,6): warning C4101: 'i': unreferenced local variable
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(3575,64): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(3599,68): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(3623,67): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(3741,7): warning C4101: 'choice': unreferenced local variable
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(3741,15): warning C4101: 'wrongChoice': unreferenced local variable
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(3982,19): warning C4101: 'choice': unreferenced local variable
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(4469,11): warning C4098: 'rearrange': 'void' function returning a value
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(4536,68): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(4537,70): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(5028,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(5104,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(2129): warning C4716: 'memberMain': must return a value
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(2331): warning C4715: 'memberAdd': not all control paths return a value
+C:\Users\ASUS\source\repos\module 2\module 2\module2.c(5132): warning C4716: 'minusCurrentStock': must return a value
+  module 2.vcxproj -> C:\Users\ASUS\source\repos\module 2\Debug\module 2.exe

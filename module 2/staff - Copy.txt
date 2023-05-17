@@ -1,0 +1,14 @@
+ST0000+Victor Pow Yie Yuaw+abc+pyy+Administrator+pyy@gmail.com+Johor+PR+7000.00+5.00
+ST0001+Victor Pow+abc+def+Administrator+Victor@gmail.com+Kepong+HR+5000.00+5.00
+ST0002+baoyao+123+123+Administrator+baoyao@gmail.com+Kepong+PR+4500.00+5.00
+ST0003+Pow+123+123+Administrator+pow@gmail.com+Kepong+PR+4500.00+4.00
+ST0004+Yie+123+123+Administrator+yie@gmail.com+Kepong+HR+4000.00+5.00
+ST0005+Yuaw+123+123+Administrator+yuaw@gmail.com+Kepong+HR+3500.00+3.00
+ST0006+Ben+123+123+Promoter+ben@gmail.com+Kepong+PR+2000.00+4.50
+ST0007+Ng+123+123+Promoter+egg@gmail.com+Aman Puri+PR+1000.00+4.00
+ST0008+Jonathan+123+123+Cashier+jh@gmail.com+Kepong+Accounting+1500.00+3.50
+ST0009+Ming Li+123+123+Cleaner+ml@gmail.com+Ampang+Cleaning+1500.00+3.50
+ST0010+Kai Yuan+123+123+Cleaner+ky@gmail.com+Ampang+Cleaning+1500.00+3.50
+ST0011+Yap+123+123+Cashier+Yap@gmail.com+Desa Jaya+Finance+1500.00+4.00
+ST0012+Lui Yen Sung+LYS+LYS+Manager+lui@gmail.com+SungaiBuloh+PR+4500.00+5.00
+ST0013+You Sheng Hong+ysh+ysh+Cashier+ysh@gmail.com+AmanPuri+Finance+2500.00+5.00
